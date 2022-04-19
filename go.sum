@@ -1,0 +1,12 @@
+github.com/google/uuid v1.0.0 h1:b4Gk+7WdP/d3HZH8EJsZpvV7EtDOgaZLtnaNGIu1adA=
+github.com/google/uuid v1.0.0/go.mod h1:TIyPZe4MgqvfeYDBFedMoGGpEw/LqOeaOT+nhxU+yHo=
+github.com/orfjackal/nanospec.go v0.0.0-20120727230329-de4694c1d701 h1:yOXfzNV7qkZ3nf2NPqy4BMzlCmnQzIEbI1vuqKb2FkQ=
+github.com/orfjackal/nanospec.go v0.0.0-20120727230329-de4694c1d701/go.mod h1:VtBIF1XX0c1nKkeAPk8i4aXkYopqQgfDqolHUIHPwNI=
+github.com/pborman/uuid v1.2.1 h1:+ZZIw58t/ozdjRaXh/3awHfmWRbzYxJoAdNJxe/3pvw=
+github.com/pborman/uuid v1.2.1/go.mod h1:X/NO0urCmaxf9VXbdlT7C2Yzkj2IKimNn4k+gtPdI/k=
+github.com/rafrombrc/gomock v0.0.0-20150113192118-bcaa96eba53b h1:CFndkvLtFcyzPGEaQe7Kzv0t0A6bComzjxPMJPYM0N4=
+github.com/rafrombrc/gomock v0.0.0-20150113192118-bcaa96eba53b/go.mod h1:md6KG58OrW50u5txwSbr886E8e9unLLzUlTwwq6YzcU=
+github.com/rafrombrc/gospec v0.0.0-20121213232506-2e46585948f4 h1:qiLQC0iWJeDTGyquNnRrVyfSwUG2jyxI5CV/cU+F1UE=
+github.com/rafrombrc/gospec v0.0.0-20121213232506-2e46585948f4/go.mod h1:P3c81VRt80v5x5NRUsozgHnA2GUejoHPh52zyd7otjI=
+github.com/streadway/amqp v1.0.0 h1:kuuDrUJFZL1QYL9hUNuCxNObNzB0bV/ZG5jV3RWAQgo=
+github.com/streadway/amqp v1.0.0/go.mod h1:AZpEONHx3DKn8O/DFsRAY58/XVQiIPMTMB1SddzLXVw=
